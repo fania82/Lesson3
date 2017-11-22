@@ -99,7 +99,7 @@ public class Lesson3 {
             else
                 System.out.println("test is failed");
 
-            driver.close();
+//            driver.close();
         }
 
 
