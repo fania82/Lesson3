@@ -4,6 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 
 public abstract class AbstractWebDriverEventListener implements WebDriverEventListener {
+
     public void beforeNavigateTo(String url, WebDriver driver) {
 
     }
